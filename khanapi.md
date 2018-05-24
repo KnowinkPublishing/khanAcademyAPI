@@ -81,3 +81,26 @@ edit_slug: "edit/v/x9b4a5e7a",
 translated_description: "Sal counts squirrels and horses.",
 translated_standalone_title: null
 ```
+## Subtopic Node Slugs
+
+Something to note here are the node slug values, as you reach the actual topic content the node slug will be prefaced with the type of content - v for video, e for exercise, etc. 
+
+    math
+
+      early-math
+
+         cc-early-math-counting-topic 
+
+             cc-early-math-counting
+
+                 v/counting-with-small-numbers
+
+                 e/counting-out-1-20-objects
+
+                 v/counting-in-order
+
+                 e/counting-objects
+
+                 e/one-more--one-less
+
+             cc-early-math-numbers-120
